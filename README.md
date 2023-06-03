@@ -19,9 +19,7 @@ Then run npm install after downloading the code
 
 <br></br>
 
-# This is a code block.
-
-```js
+# To Run the API
 
 
 Signup API "Refer to the image after link"
