@@ -5,15 +5,13 @@ tasks using JWT
 
 # Getting Started
 
-To get started with the project, you will need to install Node.js and npm. Once you have installed Node.js and npm,
-you can clone the project from GitHub:
-
-Once you have cloned the project,  the dependencies automatically get instaled:
+To get started with the project, you will need to install Node.js and npm.
 
 # npm install
+Then run npm install after downloading the code
 
 # Notice :
-<h5> You need to edit environment variable file with your mongodb database string URL </h5>
+<h5> You need to edit environment variable file with your mongodb database URL </h5>
 
 # Start the project
 
